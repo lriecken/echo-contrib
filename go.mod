@@ -1,4 +1,4 @@
-module github.com/labstack/echo-contrib
+module github.com/lriecken/echo-contrib
 
 require (
 	github.com/appleboy/gofight/v2 v2.1.2
