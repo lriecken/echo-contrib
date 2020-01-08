@@ -1,7 +1,7 @@
 module github.com/labstack/echo-contrib
 
 require (
-	github.com/appleboy/gofight/v2 v2.1.1
+	github.com/appleboy/gofight/v2 v2.1.2
 	github.com/casbin/casbin/v2 v2.0.0
 	github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd // indirect
 	github.com/gorilla/context v1.1.1
